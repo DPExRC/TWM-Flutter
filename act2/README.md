@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Añadir imagenes y descripción, además de un boton el cual lleva a la pagina de Ulagos
+Añadir imágenes y descripción, además de un botón el cual lleva a la página de ULAGOS.
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)

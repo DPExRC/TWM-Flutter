@@ -1,12 +1,9 @@
-# act1
-
-A new Flutter project.
+# act2
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Añadir imagenes y descripción, además de un boton el cual lleva a la pagina de Ulagos
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
